@@ -1,6 +1,9 @@
 import streamlit as st
 import pickle
+import nltk
 
+
+nltk.download('stopwords')
 model = pickle.load(open("model.pkl", "rb"))
 vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
