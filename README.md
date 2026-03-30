@@ -34,7 +34,11 @@ With the increasing number of phishing and fraudulent emails, this system helps 
 
 
 ## 🖼 Screenshots
-(Add your screenshots here)
+
+
+HOME PAGE - (home.png)
+
+OUTPUT PAGE - (result1.png , result2.png)
 
 ▶️ Run Locally
 
