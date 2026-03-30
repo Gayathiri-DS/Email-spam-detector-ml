@@ -40,11 +40,14 @@ With the increasing number of phishing and fraudulent emails, this system helps 
 CLICK HERE-https://email-spam-detector-ml-6vugrkmvsa4j38tans5fhg.streamlit.app/
 
 🌟 Future Improvements
+
 - Deep Learning (LSTM/BERT)
 - Email subject + metadata analysis
 - Deployment with cloud integration
 
- 📌 Conclusion
+ 📌 Conclusion:
+
+ 
 This project demonstrates how NLP and ML can be used to build an effective spam detection system with high accuracy. 
 
 
