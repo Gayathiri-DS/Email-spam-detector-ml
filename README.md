@@ -1,75 +1,44 @@
-📧 Email Spam Detector 🚀
+# 📧 Fake Email Detection using Machine Learning
 
-🎯 Project Overview
+## 📌 Project Overview
+This project focuses on detecting whether an email is **Spam or Not Spam** using Natural Language Processing (NLP) and Machine Learning techniques.
 
-✨ A powerful Fake Email Detection System using Machine Learning + NLP
-📩 Classifies emails into:
-
-- ✅ Ham (Real Email)
-- 🚨 Spam (Fake Email)
-
-💡 Built with real-world application focus and deployed as a live web app
-
-🧠 Tech Stack
-
-Category| Tools Used
-
-Language| Python 
-ML Models| Logistic Regression, Random Forest
-NLP| TF-IDF Vectorization
-UI| Streamlit
-Libraries| Scikit-learn, NLTK, Pandas
-
-📊 Model Performance
-
-Model| Accuracy
-
-Logistic Regression| 96% ✅
-Random Forest| 94%
+With the increasing number of phishing and fraudulent emails, this system helps in automating email filtering and improving security.
 
 
-⚡ Features
+## 🚀 Features
+- Classifies emails as Spam / Not Spam
+- Uses NLP techniques for text preprocessing
+- Real-time prediction using Streamlit UI
+- Clean and interactive interface
 
-✨ Real-time email prediction
-🎨 Clean & interactive UI
-📊 Model comparison graph
-🔍 NLP-based text processing
-🌐 Live deployed app
 
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- NLP (TF-IDF / Count Vectorizer)
+- Streamlit
+
+
+## ⚙️ Model Details
+- Algorithm: Naive Bayes / Logistic Regression
+- Text Vectorization: TF-IDF
+- Train-Test Split: 80-20
+
+
+## 📊 Model Performance
+- Accuracy: **95%**
+- Precision: High
+- Recall: Balanced
+
+
+## 🖼 Screenshots
+(Add your screenshots here)
 
 ▶️ Run Locally
+CLICK HERE-https://email-spam-detector-ml-6vugrkmvsa4j38tans5fhg.streamlit.app/
 
 
+AUTHOR - GAYATHIRI_PK
 
-🌐 Deployment
-
-🚀 Deployed on Streamlit Community Cloud
-
-
-🔮 Future Improvements
-
-🚀 Deep Learning (LSTM)
-🔗 Phishing link detection
-📎 Upload email file
-🎨 Advanced UI
-
-
-👩‍💻 Author
-
-Gayathiri ✨
-🎓 M.Sc Statistics
-📊 Aspiring Data Scientist
-
-
-⭐ Support
-
-If you like this project:
-
-🌟 Star this repo
-🍴 Fork it
-📢 Share with others
-
-
-<p align="center">
-  🚀 Built with passion for Data Science ❤️
-</p>
